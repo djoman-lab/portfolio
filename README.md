@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://github.com/djoman-lab/portfolio/blob/main/public/assets/vite.svg" alt="Vite Logo" width="120"/>
+  <img src="https://github.com/user-attachments/assets/99f133ec-9e4d-4dd7-a8f7-92e68e7b0066"
+       alt="Profil - Roméo DJOMAN"
+       width="150"
+       height="150"
+       style="border-radius: 50%; object-fit: cover;" />
 </p>
+
 
 <h1 align="center">💼 Portfolio — <strong>Roméo DJOMAN</strong> (Vanilla JS + Vite)</h1>
 
