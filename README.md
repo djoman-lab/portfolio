@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99f133ec-9e4d-4dd7-a8f7-92e68e7b0066"
+  <img src="https://github.com/user-attachments/assets/2c78d4b3-e4b6-4fee-9444-b3b497761ab3"
        alt="Profil - Roméo DJOMAN"
-       width="150"
-       height="150"
+       width="200"
+       height="200"
        style="border-radius: 50%; object-fit: cover;" />
 </p>
+
 
 
 <h1 align="center">💼 Portfolio — <strong>Roméo DJOMAN</strong> (Vanilla JS + Vite)</h1>
