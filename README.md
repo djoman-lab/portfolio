@@ -1,2 +1,2 @@
 # portfolio
-Mon portfolio personnel — Développé avec Vite.js, HTML, CSS et JavaScript vanilla.
+Mon portfolio personnel — Développé avec HTML, CSS et JavaScript vanilla.
